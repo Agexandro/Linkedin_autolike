@@ -1,5 +1,5 @@
 # Linkedin_autolike
-A simple script that likes every unliked linkedin posts
+A simple script that gives like to every unliked linkedin posts
 
 ## How to use it?
 
